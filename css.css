@@ -118,7 +118,7 @@ bar {
     background-size:50%;
 }
 .input:hover {
-    background-color:silver;
+    background-color:silver 50%;
     transition:background-size 1s all;
     background-size:60%;
 }
