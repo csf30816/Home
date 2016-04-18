@@ -1,0 +1,168 @@
+.ar{
+    background-color:rgba(255, 255, 255, 0.61);
+    color:rgba(45, 37, 244, 0.61);
+    font-size:20px;
+    padding:4px;
+    
+}
+.ar:hover{
+    background-color:transparent;
+    color:rgba(45, 37, 244, 0.88);
+    background-color:white;
+}
+a{
+    color:gray;
+    background-color:transparent;
+    padding:2px;
+    border-radius:8px;
+    
+}
+a:hover{
+    color:white;
+    background-color:gray;
+    text-decoration:none;
+}
+.bottom {
+    margin-top:10%;
+}
+.source {
+    float:left;
+    background-color:rgba(255, 184, 0, 0.45);
+    text-decoration:none;
+    padding:6px;
+    border-radius:12px;
+    color:black;
+    margin-top:100px;
+}
+.source:hover {
+    text-decoration:underline;
+    background-color:rgba(255, 184, 0, 0.85);
+}
+.csf30816 {
+    text-align:center;
+    background-color:rgba(78, 125, 78, 0.40);
+    margin-top:0px;
+    position:absolute;
+    width:100%;
+}
+h1 {
+    padding:40px;
+    padding-bottom:0px;
+}
+.title {
+    text-align:center;
+}
+.head {
+    background-color:rgba(78, 125, 78, 0.40);
+}
+body {
+    background-color:rgba(78, 125, 78, 0.25);
+}
+.left {
+    float:left;
+    background-color:rgba(78, 125, 78, 0.25);
+    width:25%;
+    margin-top:0px;
+    overflow:auto;
+    height:600px;
+}
+.right {
+    float:right;
+    background-color:rgba(78, 125, 78, 0.25);
+    width:25%;
+    margin-top:20px;
+    overflow:auto;
+    height:600px;
+}
+.right .left {
+    background-color:rgba(78, 125, 78, 0.25);
+    width:25%;
+}
+.left .ul {
+    padding-right:20px;
+}
+.right .ul {
+    padding:20px;
+}
+h2 {
+    text-align:center;
+    background-color:rgba(78, 125, 78, 0.10);
+}
+p {
+    padding:10px;
+}
+.search-bar {
+    color:grey;
+    margin-top:0;
+    border-bottom-left-radius:0;
+    border-top-left-radius:0;
+}
+bar {
+    float:right;
+}
+.input {
+    background:url(https://cdn.scratch.mit.edu/scratchr2/static/__1715086c15b6be5a55a89875ebe52dac__/images/nav-search-glass.png) no-repeat 5px center;
+    background-color:white;
+    width:26px;
+    height:22px;
+    margin:0px;
+    border-bottom-right-radius:0px;
+    border-top-right-radius:0px;
+    border-bottom-left-radius:8px;
+    border-top-left-radius:8px;
+    padding:0px;
+    border-right:0px;
+    border:0px;
+}
+.input:hover {
+    background-color:silver;
+}
+.bar {
+    width:71%;
+    height:22px;
+    margin:0px;
+    text-align:center;
+    border-bottom-right-radius:8px;
+    border-top-right-radius:8px;
+    padding:0px;
+    border-left:0px;
+    border:0px;
+    font-style:italic;
+    font-style:bold;
+}
+.search {
+    background-color:rgba(78, 125, 78, 0.10);
+    width:74%;
+    margin-top:20px;
+    float:right;
+    margin-left:0px;
+}
+.highlight {
+    background-color:yellow;
+}
+.bold {
+    background-color:grey;
+    color:white;
+    font-size:10px;
+    padding:6px;
+    border-radius:100px;
+    padding-right:10px;
+    padding-left:10px;
+}
+.bold:hover {
+    background-color:silver;
+    cursor:pointer;
+}
+.imgs {
+    background-color:transparent;
+    text-decoration:none;
+}
+.imgs:hover{
+    background-color:transparent;
+}
+.h1 {
+    font-family:'Stardos Stencil', cursive;
+}
+.news-feed-search{
+    background-color:rgba(78, 125, 78, 0.10);
+}
