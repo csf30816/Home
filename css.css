@@ -115,12 +115,12 @@ bar {
     padding:0px;
     border-right:0px;
     border:0px;
-    background-size:95%;
+    background-size:50%;
 }
 .input:hover {
     background-color:silver;
     transition:background-size 1s all;
-    background-size:100%;
+    background-size:60%;
 }
 .bar {
     width:71%;
